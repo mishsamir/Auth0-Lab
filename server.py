@@ -41,7 +41,7 @@ def home():
     )
 
 
-
+# -- Callback URL for Auth0
 
 @app.route("/callback", methods=["GET", "POST"])
 def callback():
