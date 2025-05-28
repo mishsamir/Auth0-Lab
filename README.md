@@ -3,6 +3,8 @@
 This sample demonstrates how to add authentication to a Python web app using Auth0.
 
 # Running the App
+# Here is the link for ``DEMO``
+ **[Click HERE](https://youtu.be/JzwDhdaklWs)** to view the video.
 
 To run the sample, make sure you have `python3` and `pip` installed.
 
